@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Recruitment
 date: 2022-10-24
 
 type: landing
