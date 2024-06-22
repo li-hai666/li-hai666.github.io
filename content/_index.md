@@ -15,8 +15,16 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+        The **UWB Research Group** 
+
+        we are now recruiting people to join our experiments, you can learn latest technology and earn extra money 💰💰💰, click the button blow to learn more details!
+
+        <br>
+
+      cta:
+        label: Recruitment
+        url: recruitment
+        
   - block: hero
     content:
       title: Location System
